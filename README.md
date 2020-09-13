@@ -10,6 +10,10 @@ The way to install modules to this repo is to simply get ahold of a copy of the 
 
 ---
 
+To run this webpage, firstly download all the files in this repo.
+Browse to the directory where the files are stored in a cli-tool, and run `npm install`.
+I currently use three packages other than the packages included in the command above. These are `react-router-dom`, `react-dom` and `react-markdown`. You can simply install these via the instructions above if they seem to be missing.
+
 After this, you can simply run the command `npm start` to start my application and browse around on my webapp.
 
 ---
